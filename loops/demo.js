@@ -1,3 +1,5 @@
+console.log('\x1Bc'); // clears the console each run
+
 /* ********** while loops *********** */
 let pizzasLeft = 4;
 while (pizzasLeft >= 1) {
@@ -22,6 +24,14 @@ while (iHavePizzas) {
 //   console.log('I have ', pizzasLeft, ' left');
 // }
 
+// CHECK FOR UNDERSTANDING
+let num = 9;
+
+while (num > 0) {
+  console.log('num: ', num);
+  num -= 2;
+}
+
 /* ********** for loops *********** */
 for (let i = 1; i <= 5; i++) {
   console.log('current day: ', i);
@@ -43,6 +53,18 @@ for (let i = 0; i < letters.length; i++) {
  let currentLetter = letters[i];
   console.log(currentLetter);
 }
+
+// CHECK FOR UNDERSTANDING
+let str = 'supercalifragilisticexpialidocious';
+let newStr = '';
+for (let i = 0; i < str.length; i++) {
+  if (i % 2 === 0) {
+    newStr += str[i].toUpperCase();
+  } else {
+    newStr += str[i];
+  }
+}
+
 
 // continue causes loop to skip to the next iteration
 let word = 'Twitter';

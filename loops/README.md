@@ -14,12 +14,15 @@
 
 ## Lesson
 - How to **explain** the concept:
-  - Pre-recorded video lecture going over loops (link below)
-  - Pre-recorded demo with the demo code
+  - Pre-recorded video lecture (link below)
+    - Teaches loops
+    - Gives Analogies
+    - Demonstrates code in action - actually running it
+- Deliberate **practice** for the apprentice
+  - "Check for Understanding" smaller assignments in the video.
+  - The assignments/tests below are also practice
 - How to **assess** that apprentice had understood the concept
   - Can the apprentice pass the tests in the automated tests?
-- Deliberate **practice** for the apprentice
-  - The assignments/tests are the practice
 
 ### Instructor Lesson Assets (For reference in future edits)
 
@@ -33,8 +36,8 @@
 
 | Type                        | Content                               | Concepts |
 | --------------------------- |:----------------------------------: | :-----:|
-| **Pre-recorded Lecture**   | [Loops]() |    Loops     |
-| **Slide PDF**   | [Loops]() |    Loops     |
+| **Pre-recorded Lecture**   | [Loops](https://youtu.be/O6GD-rKLYSY) |    Loops     |
+| **Slide PDF**   | [Loops](loops.pdf) |    Loops     |
 | **Assignment**   | [Dots A Million](https://jsbin.com/puyumuw/1/edit?js,output) | Looping over Strings |
 | **Assignment**   | [Even Steven](https://jsbin.com/vetahac/2/edit?js,output) | Numbers in Loops, `%` operator |
 | **Assignment**   | [How High can You Go](https://jsbin.com/gefosir/2/edit?js,output) | Looping over strings, evaluating strings |
