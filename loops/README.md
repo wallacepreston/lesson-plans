@@ -21,19 +21,20 @@
 - Deliberate **practice** for the apprentice
   - The assignments/tests are the practice
 
-### Lesson Assets
+### Instructor Lesson Assets (For reference in future edits)
 
-| Type                        | Asset                               | Time  |
-| --------------------------- |:----------------------------------: | -----:|
-| **Slide Deck (google slides)**   | [Loops](https://docs.google.com/presentation/d/1lIMgcqskBNY-Gc2Qeg-__Qyv58ZJXwYQAI8ajrs7btE/edit?usp=sharing) |          |
-| **Slide PDF**   | [Loops]() |          |
-| **Pre-recorded Lecture**   | [Loops]() |    30 min      |
-| **Demo Code**   | [Loops](demo.js) |      |
+| Type                        | Asset                               | Concepts  |
+| --------------------------- |:----------------------------------: | :-----:|
+| **Slide Deck (google slides)**   | [Loops](https://docs.google.com/presentation/d/1lIMgcqskBNY-Gc2Qeg-__Qyv58ZJXwYQAI8ajrs7btE/edit?usp=sharing) |    Loops     |
+| **Demo Code**   | [Loops](demo.js) |    Loops     |
 
-### Assignments/Assessments
 
-| Workshop                        | Solution                               | Concept |
-| ------------------------------- |:----------------------------------: |:---------: |
-| [Dots A Million](https://jsbin.com/puyumuw/1/edit?js,output) | [Solution](https://jsbin.com/focuyab/edit?js,output) | Looping over Strings |
-| [Even Steven](https://jsbin.com/vetahac/2/edit?js,output) | (none) | Numbers in Loops, `%` operator |
-| [How High can You Go](https://jsbin.com/gefosir/2/edit?js,output) | (none) | Looping over strings, evaluating strings |
+### Student Materials
+
+| Type                        | Content                               | Concepts |
+| --------------------------- |:----------------------------------: | :-----:|
+| **Pre-recorded Lecture**   | [Loops]() |    Loops     |
+| **Slide PDF**   | [Loops]() |    Loops     |
+| **Assignment**   | [Dots A Million](https://jsbin.com/puyumuw/1/edit?js,output) | Looping over Strings |
+| **Assignment**   | [Even Steven](https://jsbin.com/vetahac/2/edit?js,output) | Numbers in Loops, `%` operator |
+| **Assignment**   | [How High can You Go](https://jsbin.com/gefosir/2/edit?js,output) | Looping over strings, evaluating strings |
